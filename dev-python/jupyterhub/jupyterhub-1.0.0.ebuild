@@ -28,7 +28,7 @@ RDEPEND="
 	dev-python/python-dateutil[${PYTHON_USEDEP}]
 	dev-python/requests[${PYTHON_USEDEP}]
 	>=dev-python/sqlalchemy-1.1[${PYTHON_USEDEP}]
-	>=dev-python/tornado-5.0.0[${PYTHON_USEDEP}]
+	>=www-servers/tornado-5.0.0[${PYTHON_USEDEP}]
 	>=dev-python/traitlets-4.3.2[${PYTHON_USEDEP}]
 	"
 #certipy -- not on gentoo separate ebuild
